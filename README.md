@@ -114,7 +114,7 @@
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=jrmph&layout=compact&theme=radical)](https://github.com/KasRoudra/github-stats-card)
 
 ### Language Card (Donut Chart in Matrix Green)
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=jrmph&layout=compact&type=donut&theme=radical)](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=jrmph13&layout=compact&type=donut&theme=radical)](https://github.com/KasRoudra/github-stats-card)
 
 <p align="right">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -135,7 +135,7 @@
 
 <p align = 'right'>
 </p>
-<img src="https://github.com/jrmph/jrmph/nc.gif"width="800"> </a>
+<img src="https://github.com/jrmph13/jrmph13/nc.gif"width="800"> </a>
     </p>
 
 <div align="left">
