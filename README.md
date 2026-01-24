@@ -111,14 +111,14 @@
 
 
 ### User Stats Card (Matrix Radical Theme)
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=jrmph&layout=compact&theme=radical)](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=jrmph13&layout=compact&theme=radical)](https://github.com/KasRoudra/github-stats-card)
 
 ### Language Card (Donut Chart in Matrix Green)
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=jrmph13&layout=compact&type=donut&theme=radical)](https://github.com/KasRoudra/github-stats-card)
 
 <p align="right">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jrmph&row=2&column=3&theme=radical&margin-w=15&margin-h=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jrmph13&row=2&column=3&theme=radical&margin-w=15&margin-h=15" />
   </a>
 </p>
 
@@ -127,7 +127,7 @@
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/jrmph?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKolkata)
+![Metrics](https://metrics.lecoq.io/jrmph13?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKolkata)
 
 </details> 
 
