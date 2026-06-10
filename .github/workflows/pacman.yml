@@ -1,0 +1,29 @@
+name: Generate Pacman
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Pacman Graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: jrmph13
+          outputs: |
+            dist/pacman-contribution-graph.svg?palette=github-dark
+
+      - name: Push Pacman Graph
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
+          force_orphan: true
