@@ -341,21 +341,18 @@ Logo, social media content, video editing, caricatures & digital illustration
 
 
 
-## 👾 Pac-Man Contribution Graph
+## 👾 Eating My Contributions
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jrmph13/jrmph13/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jrmph13/jrmph13/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/jrmph13/jrmph13/output/pacman-contribution-graph-dark.svg" width="100%">
-</picture>
+<img src="https://raw.githubusercontent.com/jrmph13/jrmph13/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" width="100%" />
 
-<br/>
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/jrmph13/jrmph13/output/pacman-contribution-graph.svg" width="100%">
+> 🎮 Pac-Man is busy eating my GitHub contributions.
 
 </div>
+
 ---
 
 ## 💬 Quotes I Live By
