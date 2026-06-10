@@ -1,162 +1,437 @@
-# JRMPH - Fullstack Developer
-
-<div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/jrmph/jrmph/main/Programmer.gif" width="550" alt="Ung Gif kasi is Programmer.gif">
-</div>
 <div align="center">
 
-<h1 align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, To My Github </h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=Jhames%20Rhonnielle%20Martin&fontSize=42&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20BSIS%20Student%20%7C%20Graphics%20Designer%20%7C%20Game%20Dev%20Enthusiast&descAlignY=60&descSize=15&descColor=58a6ff" />
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1764FF&width=470&lines=𝐈'𝐌+𝐉𝐇𝐀𝐌𝐄𝐒+𝐑𝐇𝐎𝐍𝐍𝐈𝐄𝐋𝐋𝐄+𝐌𝐀𝐑𝐓𝐈𝐍;𝐈'𝐌+𝐀+𝐁𝐒𝐈𝐒+𝐒𝐓𝐔𝐃𝐄𝐍𝐓;𝐈'𝐌+𝐀+𝐅𝐔𝐋𝐋𝐒𝐓𝐀𝐂𝐊+𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑;𝐈'𝐌+𝐀+𝐒𝐎𝐅𝐓𝐖𝐀𝐑𝐄+𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑;𝐈'𝐌+𝐀+𝐅𝐑𝐄𝐄𝐋𝐀𝐍𝐂𝐄𝐑)](https://git.io/typing-svg)
+</div>
 
-![](https://komarev.com/ghpvc/?username=jrmph&style=flat-square)
+<div align="center">
 
-<b><details><summary>About Me</summary>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=58a6ff&center=true&vCenter=true&width=750&lines=Fullstack+Developer+%F0%9F%9A%80;BSIS+Student+%F0%9F%8E%93;Game+Dev+Enthusiast+%F0%9F%8E%AE;Graphics+Designer+%F0%9F%8E%A8;Freelancer+%F0%9F%92%BC;Stay+Humble.+Stay+Hungry.+Keep+Building.)](https://git.io/typing-svg)
 
-<p align = 'right'>
-</p>
-<img src="https://i.ibb.co/FkLD64kj/IMG-20251027-213136.jpg" width="800"> </a>
-    </p>
+<br/>
 
-
-- Hello I'm Jhames Rhonnielle Martin
-- BSIS Student & Fullstack Developer
-- Passionate About Software Development
-- Currently Learning New Technologies
-- Interested in Building Web & Mobile Applications
-- Available for Freelance Projects
-
-</p>
-<h2 align="center"> I Love My GirlFriend ❤️
-</h2>
-<p align="center">
-  <img src="https://i.ibb.co/5gbt78NN/IMG-20250920-024921-227.jpg" width="80" height="80" alt="avatar" style="border-radius:50%;">
-</p></details>
-
-
-</b>
-</details>
-
-
-# 𝐅𝐔𝐋𝐋 𝐒𝐓𝐀𝐂𝐊 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
-![Software](https://github-production-user-asset-6210df.s3.amazonaws.com/100421286/272569977-4e649b6c-4c4a-420f-931e-8e7ae94b2106.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T072855Z&X-Amz-Expires=300&X-Amz-Signature=4ce44f8f92a01dde08958d09cb40c9c15f0e4a8fa3885275dc8b6bedf845d983&X-Amz-SignedHeaders=host)
-
-
-- I'm A Passionate Software Developer
-- I'm Interested in Learning New Technologies
-- My Tech Stack Includes: PHP, HTML, CSS, JS, Laravel, React, Node.js, Next.js, Java, Vue, MySQL
-- Currently Exploring: Render, Vercel, GitHub, GitLab, Python, Supabase, Tailwind, Bootstrap
-
-# 𝐖𝐄𝐁 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
-![professional web dev](https://github.com/mrjuice01/mrjuice01/assets/100421286/41cf3b10-a1ea-4316-97c2-c23d76318e34)
-
-
-- I'm A Hard Working Web Developer
-- I'm Interested in Customizing & Editing Websites
-- Check Out My Portfolio & Projects
-- Here You Can Get More of My Apps & Projects
-- 𝗠𝗼𝘀𝘁𝗹𝘆 𝗨𝘀𝗲𝗱 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
-- ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-# 𝐅𝐔𝐋𝐋 𝐒𝐓𝐀𝐂𝐊 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
-![projects](https://github.com/mrjuice01/mrjuice01/assets/100421286/6195d5c7-2de5-48ad-83d4-c53564d891ca)
-
-
-
-- I'm A Passionate Fullstack Developer
-- I'm Still Learning New Things & Technologies
-- My Goal Is to Build Complete Web Applications
-- From Frontend to Backend Development
-- 𝗠𝗼𝘀𝘁𝗹𝘆 𝗨𝘀𝗲𝗱 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
-- ![MySQL](https://img.shields.io/badge/mysql-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![SQLite](https://img.shields.io/badge/sqlite-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-# GRAPHICS DESIGNER
-![design1](https://github.com/mrjuice01/mrjuice01/assets/100421286/b2e69170-e400-405e-a338-13bffb8b344a)
-
-
-- I'm A Passionate Graphics Designer
-- I Can Create: Editing, Graphic Design, Restoration, Caricature, Social Media, Logo, Video Editing
-- My Tools: Photoshop, Kinemaster, Node Video, Filmora, Ps CC, Photopea, Adobe Illustrator, Adobe Animate, Canva, Medibang Paint, Ibis Paint, Vs Code
-- You Can Hire Me for Your Graphics Designs
-- 𝗠𝗼𝘀𝘁𝗹𝘆 𝗨𝘀𝗲𝗱
-- ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%23E34F26.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)&nbsp; ![canva](https://img.shields.io/badge/canva-%231572B6.svg?style=for-the-badge&logo=canva&logoColor=white)&nbsp; ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23323330.svg?style=for-the-badge&logo=adobe-llustrator&logoColor=%23F7DF1E)
-
-## 𝐌𝐎𝐒𝐓𝐋𝐘 𝐔𝐒𝐄𝐃 𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒
-
-- ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%23E34F26.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)&nbsp; ![Adobe InDesign](https://img.shields.io/badge/adobe%20inDesign-%231572B6.svg?style=for-the-badge&logo=adobe-inDesign&logoColor=white)&nbsp; ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23323330.svg?style=for-the-badge&logo=adobe-llustrator&logoColor=%23F7DF1E)
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp; ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
--  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-- ![React](https://img.shields.io/badge/react-%2300C4CC.svg?style=for-the-badge&logo=react&logoColor=white)&nbsp; ![Mongodb](https://img.shields.io/badge/mongodb-%23F24E1E.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp; ![Express](https://img.shields.io/badge/express-%23F24E1E.svg?style=for-the-badge&logo=express&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp; ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;![CSS](https://img.shields.io/badge/css-%2300599C.svg?style=for-the-badge&logo=C#%2B%2B&logoColor=white)&nbsp;![Node.js](https://img.shields.io/badge/Node%20.js-0078d7.svg?style=for-the-badge&logo=node.js&logoColor=white)</a>
-    </p>
-<br>
-
-
-## 𝐒𝐊𝐈𝐋𝐋𝐒
-
-- ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)&nbsp; ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-- ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)&nbsp; ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-- ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-</b>
-
-</details>
-
-<b><details><summary>📊Github Status</summary>
-
-<p align = 'right'>
+<p>
+  <a href="mailto:jhames.martin.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/jhames-martin-87b00630a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://instagram.com/jhamesrhonnielle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
+  <a href="https://www.facebook.com/jhames.rhonnielle.martin"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;
+  <a href="https://wa.me/+639947197500"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
-
-### User Stats Card (Matrix Radical Theme)
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=jrmph13&layout=compact&theme=radical)](https://github.com/KasRoudra/github-stats-card)
-
-### Language Card (Donut Chart in Matrix Green)
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=jrmph13&layout=compact&type=donut&theme=radical)](https://github.com/KasRoudra/github-stats-card)
-
-<p align="right">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jrmph13&row=2&column=3&theme=radical&margin-w=15&margin-h=15" />
-  </a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=jrmph13&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />&nbsp;
+  <img src="https://img.shields.io/github/followers/jrmph13?label=FOLLOWERS&color=3fb950&style=for-the-badge" />
 </p>
 
-</details>
+</div>
 
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+---
 
-![Metrics](https://metrics.lecoq.io/jrmph13?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKolkata)
+## 👤 About Me
 
-</details> 
+<div align="center">
+<table>
+<tr>
+<td width="52%" valign="top">
 
-<b><details><summary>📞Contact Me</summary>
+<img src="https://raw.githubusercontent.com/jrmph/jrmph/main/Programmer.gif" width="100%" style="border-radius:10px;" alt="Coding GIF" />
 
-<p align = 'right'>
-</p>
-<img src="https://github.com/jrmph13/jrmph13/nc.gif"width="800"> </a>
-    </p>
+</td>
+<td width="48%" valign="top">
 
-<div align="left">
-  <a href="mailto:jhames.martin.dev@gmail.com?subject=Want%20to%20contact%20you%20from%20github" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/jhames.rhonnielle.martin" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  />
-  </a>
-  <a href="https://instagram.com/jhamesrhonnielle" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/jhames-martin-87b00630a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/+639947197500" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="30" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.facebook.com/jhames.rhonnielle.martin" target="_blank">
+<br/>
 
-#### If you have any queries, suggestions or you want to hire me, you can contact me and I will be happy to respond. 
-<br>
+```yaml
+Name      : Jhames Rhonnielle Martin
+Nickname  : JRMPH
+Role      : Fullstack Developer
+School    : BSIS Student
+Location  : Philippines 🇵🇭
+Status    : Open for Freelance & Collab
+Game Dev  : Trivial RO (Ragnarok-inspired)
+Motto     : "Humble. Hungry. Consistent."
+```
+
+<br/>
+
+**🔥 Currently Building:**
+- 🎮 Trivial RO — Ragnarok-inspired game project
+- 🌐 Full-stack web applications
+- 📱 Android mobile apps
+- 🎨 Freelance design projects
+
+**🌱 Currently Exploring:**
+- Supabase · Neon DB · FastAPI
+- Advanced game development
+- System design & architecture
+- UI/UX & responsive design
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<div align="center">
+
+### ❤️ I Love My Girlfriend ❤️
+
+<img src="https://i.ibb.co/5gbt78NN/IMG-20250920-024921-227.jpg" width="120" height="120" alt="My GF" style="border-radius:50%;" />
+
+<br/><br/>
+
+<img src="https://i.ibb.co/FkLD64kj/IMG-20251027-213136.jpg" width="380" style="border-radius:12px;" alt="Jhames" />
+
+</div>
+
+---
+
+## 🧠 Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,tailwind,bootstrap&theme=dark" />
+
+<br/>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)&nbsp;
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
+<br/><br/>
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,java,kotlin,cs&theme=dark" />
+
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+<br/><br/>
+
+### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,supabase,postgresql&theme=dark" />
+
+<br/>
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)&nbsp;
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+<br/><br/>
+
+### 🚀 Tools & Deployment
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,netlify,vscode,androidstudio,figma&theme=dark" />
+
+<br/>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)&nbsp;
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)&nbsp;
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+
+<br/><br/>
+
+### 🎨 Design Tools
+
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)&nbsp;
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)&nbsp;
+![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white)&nbsp;
+![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=adobe-indesign&logoColor=white)&nbsp;
+![Animate](https://img.shields.io/badge/Animate-FF0000?style=flat-square&logo=adobe&logoColor=white)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)&nbsp;
+![Medibang](https://img.shields.io/badge/Medibang_Paint-CC0000?style=flat-square&logo=medibang&logoColor=white)
+
+</div>
+
+---
+
+## 💼 What I Do
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🌐
+**Web Development**
+
+Full-stack web apps — responsive UI, REST APIs, and database integration from scratch
+
+</td>
+<td align="center" width="25%">
+
+### 📱
+**Mobile Development**
+
+Native Android apps built with Java & Kotlin using Android Studio
+
+</td>
+<td align="center" width="25%">
+
+### 🎮
+**Game Development**
+
+Ragnarok-inspired game projects — Trivial RO with quest systems & character logic
+
+</td>
+<td align="center" width="25%">
+
+### 🎨
+**Graphics & Design**
+
+Logo, social media content, video editing, caricatures & digital illustration
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🗂️ Work Experience
+
+| 🗓️ Period | 💼 Role | 🛠️ Stack |
+|-----------|---------|-----------|
+| 2024 – Present | **Fullstack Developer** — Freelance | React, Node.js, PHP, Laravel, MongoDB, MySQL |
+| 2026 – Present | **Game Developer** — Trivial RO Project | Java, C#, Game Logic, MySQL |
+| 2023 – Present | **Graphics Designer** — Freelance | Photoshop, Illustrator, Canva, Figma |
+| 2023 – Present | **Android Developer** — Personal Projects | Java, Kotlin, Android Studio, SQLite, Firebase |
+| 2023 – Present | **BSIS Student** — Web & Software Dev | Laravel, PHP, MySQL, HTML, CSS, JS |
+| 2022 – 2023 | **Frontend Developer** — Personal Projects | HTML, CSS, JavaScript, Bootstrap |
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 Trivial RO
+> A Ragnarok Online-inspired trivia & quest game system with character stats, level progression, and game mechanics.
+
+**Stack:** Java · C# · MySQL · Game Design  
+**Status:** 🟡 In Development  
+[![View](https://img.shields.io/badge/View_Project-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jrmph13)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Full-Stack Web Apps
+> Complete web applications with modern frontend, robust backend APIs, and optimized database architecture.
+
+**Stack:** React · Next.js · Node.js · MongoDB · MySQL  
+**Status:** 🟢 Active  
+[![View](https://img.shields.io/badge/View_Project-3fb950?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jrmph13)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Android Apps
+> Mobile-first Android applications built for real use cases — from CRUD apps to Firebase-integrated systems.
+
+**Stack:** Java · Kotlin · Android Studio · Firebase · SQLite  
+**Status:** 🟢 Active  
+[![View](https://img.shields.io/badge/View_Project-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jrmph13)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Design Portfolio
+> Brand identities, social media graphics, video production, caricature art & digital illustrations for clients.
+
+**Tools:** Photoshop · Illustrator · Canva · Kinemaster · Filmora  
+**Status:** 🟢 Active  
+[![View](https://img.shields.io/badge/View_Work-3fb950?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jrmph13)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Laravel Web Systems
+> Complete CRUD-based web systems with authentication, admin dashboards, and MySQL database management.
+
+**Stack:** PHP · Laravel · MySQL · Blade · Bootstrap  
+**Status:** 🟢 Active  
+[![View](https://img.shields.io/badge/View_Project-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jrmph13)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔥 Firebase Apps
+> Real-time web & mobile apps using Firebase Auth, Firestore, and Cloud Functions.
+
+**Stack:** Firebase · JavaScript · React · Android  
+**Status:** 🟡 In Progress  
+[![View](https://img.shields.io/badge/View_Project-3fb950?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jrmph13)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🎵 Spotify
+
+<div align="center">
+
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=58a6ff)](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22)
+
+<br/>
+
+[![Listen on Spotify](https://img.shields.io/badge/Listen_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22)
+
+> 🎧 *Music fuels the grind. Check out my Spotify!*
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jrmph13&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&border_color=30363d&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrmph13&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=10" width="38%" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=jrmph13&hide_border=false&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=e6edf3&currStreakNum=e6edf3&stroke=30363d&border=30363d" width="60%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jrmph13&theme=github_dark" width="92%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jrmph13&bg_color=0d1117&color=58a6ff&line=3fb950&point=e6edf3&hide_border=false&area=true&area_color=58a6ff&border_color=30363d" width="92%" />
+
+</div>
+
+---
 
 
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jrmph13/jrmph13/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jrmph13/jrmph13/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/jrmph13/jrmph13/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+## 💬 Quotes I Live By
+
+<div align="center">
+
+> *"Success is not about being the best. It's about being better than you were yesterday."*
+
+> *"Stay humble enough to keep learning, and hungry enough to never stop growing."*
+
+> *"The best developers aren't the ones who know everything — they're the ones who never stop figuring things out."*
+
+> *"Build things that matter. Stay consistent. Stay humble. Let the work speak."*
+
+<br/>
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
+
+## 🎯 Fun Facts
+
+<div align="center">
+
+```javascript
+const jhames = {
+  pronouns       : "He / Him",
+  nationality    : "Filipino 🇵🇭",
+  languages      : ["Filipino", "English"],
+  hobbies        : ["Coding", "Gaming", "Graphic Design", "Music 🎵"],
+  gamesIPlay     : ["Ragnarok Online", "Mobile Legends", "Valorant"],
+  currentProject : "Trivial RO — Ragnarok-inspired game 🎮 (2026)",
+  favoriteStack  : "MERN + Laravel + Firebase",
+  favoriteQuote  : "Stay Humble. Stay Hungry. Keep Building.",
+  funFact        : "I debug best with music on 🎧",
+  coffee         : true,
+  openTo         : ["Freelance", "Collaboration", "Full-time Roles"],
+  goal           : "Build impactful software & grow as a developer every day",
+};
+```
+
+</div>
+
+---
+
+## 📞 Contact Me
+
+<div align="center">
+
+### 💬 Let's build something great together!
+
+<br/>
+
+<a href="mailto:jhames.martin.dev@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;
+<a href="https://www.facebook.com/jhames.rhonnielle.martin" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>&nbsp;
+<a href="https://instagram.com/jhamesrhonnielle" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/jhames-martin-87b00630a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
+<a href="https://wa.me/+639947197500" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<br/><br/>
+
+> *"Got a project in mind, want to collaborate, or just want to say hi? I'm always open — reach out anytime!"* 🙌
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=130&section=footer&text=Thanks+for+visiting!+👋&fontSize=24&fontColor=58a6ff&animation=twinkling&desc=Stay+Humble.+Stay+Hungry.+Keep+Building.&descColor=8b949e&descSize=14&descAlignY=75" />
+
+</div>
