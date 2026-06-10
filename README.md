@@ -220,12 +220,12 @@ Logo, social media content, video editing, caricatures & digital illustration
 
 | 🗓️ Period | 💼 Role | 🛠️ Stack |
 |-----------|---------|-----------|
-| 2024 – Present | **Fullstack Developer** — Freelance | React, Node.js, PHP, Laravel, MongoDB, MySQL |
+| 2026 – Present | **Fullstack Developer** — Freelance | React, Node.js, PHP, Laravel, MongoDB, MySQL |
 | 2026 – Present | **Game Developer** — Trivial RO Project | Java, C#, Game Logic, MySQL |
-| 2023 – Present | **Graphics Designer** — Freelance | Photoshop, Illustrator, Canva, Figma |
-| 2023 – Present | **Android Developer** — Personal Projects | Java, Kotlin, Android Studio, SQLite, Firebase |
-| 2023 – Present | **BSIS Student** — Web & Software Dev | Laravel, PHP, MySQL, HTML, CSS, JS |
-| 2022 – 2023 | **Frontend Developer** — Personal Projects | HTML, CSS, JavaScript, Bootstrap |
+| 2024 – Present | **Graphics Designer** — Freelance | Photoshop, Illustrator, Canva, Figma |
+| 2026 – Present | **Android Developer** — Personal Projects | Java, Kotlin, Android Studio, SQLite, Firebase |
+| 2026 – Present | **BSIS Student** — Web & Software Dev | Laravel, PHP, MySQL, HTML, CSS, JS |
+| 2023 – 2024 | **Frontend Developer** — Personal Projects | HTML, CSS, JavaScript, Bootstrap |
 
 ---
 
@@ -341,16 +341,21 @@ Logo, social media content, video editing, caricatures & digital illustration
 
 
 
-## 🐍 Contribution Snake
+## 👾 Pac-Man Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jrmph13/jrmph13/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jrmph13/jrmph13/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/jrmph13/jrmph13/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jrmph13/jrmph13/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jrmph13/jrmph13/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/jrmph13/jrmph13/output/pacman-contribution-graph-dark.svg" width="100%">
+</picture>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/jrmph13/jrmph13/output/pacman-contribution-graph.svg" width="100%">
+
+</div>
 ---
 
 ## 💬 Quotes I Live By
