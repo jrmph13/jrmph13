@@ -41,15 +41,19 @@
 
 <br/>
 
-```yaml
-Name      : Jhames Rhonnielle Martin
-Nickname  : JRMPH
-Role      : Fullstack Developer
-School    : BSIS Student
-Location  : Philippines 🇵🇭
-Status    : Open for Freelance & Collab
-Game Dev  : Trivial RO (Ragnarok-inspired)
-Motto     : "Humble. Hungry. Consistent."
+```json
+{
+  "name"      : "Jhames Rhonnielle Martin",
+  "nickname"  : "JRMPH 👾",
+  "role"      : "Fullstack Developer 🚀",
+  "school"    : "BSIS Student 🎓",
+  "location"  : "Philippines 🇵🇭",
+  "status"    : "✅ Open for Freelance & Collaboration",
+  "gameDev"   : "Trivial RO — Ragnarok-inspired 🎮 (2026)",
+  "design"    : "Graphics Designer 🎨",
+  "spotify"   : "Music Artist 🎵",
+  "motto"     : "Humble. Hungry. Consistent. 💡"
+}
 ```
 
 <br/>
@@ -304,10 +308,6 @@ Logo, social media content, video editing, caricatures & digital illustration
 
 <div align="center">
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=58a6ff)](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22)
-
-<br/>
-
 [![Listen on Spotify](https://img.shields.io/badge/Listen_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22)
 
 > 🎧 *Music fuels the grind. Check out my Spotify!*
@@ -393,6 +393,45 @@ const jhames = {
   goal           : "Build impactful software & grow as a developer every day",
 };
 ```
+
+</div>
+
+---
+
+## 🏅 Certificates & Achievements
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/jrmph13/cert/b16a3b735687a26d725762fc8c95113978a06d95/cert.jpg" width="100%" style="border-radius:8px;" alt="Certificate 1" />
+<br/><sub><b>Certificate 1</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/jrmph13/cert/b16a3b735687a26d725762fc8c95113978a06d95/cert1.jpg" width="100%" style="border-radius:8px;" alt="Certificate 2" />
+<br/><sub><b>Certificate 2</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/jrmph13/cert/b16a3b735687a26d725762fc8c95113978a06d95/cert3.jpg" width="100%" style="border-radius:8px;" alt="Certificate 3" />
+<br/><sub><b>Certificate 3</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/jrmph13/cert/b16a3b735687a26d725762fc8c95113978a06d95/cert4.jpg" width="100%" style="border-radius:8px;" alt="Certificate 4" />
+<br/><sub><b>Certificate 4</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/jrmph13/cert/b16a3b735687a26d725762fc8c95113978a06d95/cert5.jpg" width="100%" style="border-radius:8px;" alt="Certificate 5" />
+<br/><sub><b>Certificate 5</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/jrmph13/cert/b16a3b735687a26d725762fc8c95113978a06d95/cert6.png" width="100%" style="border-radius:8px;" alt="Certificate 6" />
+<br/><sub><b>Certificate 6</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
