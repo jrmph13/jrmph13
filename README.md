@@ -79,11 +79,6 @@
 
 <div align="center">
 
-### ❤️ I Love My Girlfriend ❤️
-
-<img src="https://i.ibb.co/5gbt78NN/IMG-20250920-024921-227.jpg" width="120" height="120" alt="My GF" style="border-radius:50%;" />
-
-<br/><br/>
 
 <img src="https://i.ibb.co/FkLD64kj/IMG-20251027-213136.jpg" width="380" style="border-radius:12px;" alt="Jhames" />
 
